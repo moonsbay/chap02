@@ -16,11 +16,11 @@ public class NumberExample {
          */
         int num5 = 2;
         int num6 = 4;
-        int num7;
+        double num7;
         num7 = num5 / num6;
         double num8;
         num8 = num5 / num6;
-        int num9;
+        double num9;
         num9 = num6 / num5;
         byte num4 = (byte)0b10011100;
         System.out.println("num1=" + num3);
